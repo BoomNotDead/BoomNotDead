@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BoomNotDead
 - 👀 I’m interested in development 
-- 🌱 I’m currently learning HTML / CSS / Javascript / SQL / C++
+- 🌱 I’m currently learning HTML / CSS / JS / SQL / C++
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me nowhere
 
